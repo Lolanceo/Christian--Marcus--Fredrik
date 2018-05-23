@@ -9,10 +9,7 @@ p.sansserif {
 }
 </style>
 </head>
-body {
-	background-color: #F8F8F8;
 
-}
 .wrapper {
  display: grid;
  grid-template-columns: 1fr 2fr 1fr;
