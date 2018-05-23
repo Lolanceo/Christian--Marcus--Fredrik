@@ -1,4 +1,17 @@
+head>
+<style>
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
 
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+</style>
+</head>
+body {
+	background-color: #FB6BE9;
+	}
 .wrapper {
  display: grid;
  grid-template-columns: 1fr 2fr 1fr;
